@@ -21,3 +21,6 @@ For photo data preparation, a pre-trained VGG model is used. The last layer is r
 To run:
 First run the caption_gen_load.py file in order to build the model, evaluate it
 Next, run the caption_gen_standalone.py file to execute a standalone example for caption generation
+
+
+The other files are broken down parts of the main code i.e. caption_gen_load.py for better readability of the different parts.
